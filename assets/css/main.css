@@ -1,0 +1,5 @@
+.header .inner {
+  background: -webkit-gradient(linear, left bottom, left top, from(#007df7), color-stop(50.28%, #46df83), to(#f8da49));
+  background: linear-gradient(0deg, #007df7 0%, #46df83 50.28%, #f8da49 100%);
+}
+/*# sourceMappingURL=main.css.map */
